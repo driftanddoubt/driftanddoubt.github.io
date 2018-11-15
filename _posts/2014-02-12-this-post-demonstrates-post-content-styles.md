@@ -1,88 +1,31 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
-categories: junk
-author: "Bart Simpson"
+title: "William James and C.S. Peirce"
+categories: Philosophy
+author: "James Chou"
 meta: "Springfield"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Explain, in your own words, how the choice between these two aims may underwrite different epistemic behavior. Is James correct to think of these two aims as ‘separable laws’ (p. 17)?
 
-## Some great heading (h2)
+William James notes in The Will to Believe that we have two different epistemic aims in the task of acquiring knowledge: 1) the aim of believing the truth and 2) the aim of avoiding error. This analysis will introduce the two aims by first discussing the aim of avoiding error and then considering James’ response to this position through the aim of believing the truth. The final section will then examine the case of the two aims as separable laws by discussing their mutuality through James’ notion of ‘sceptical balance’ and temperament, and will conclude by invoking James’ rule of thinking.
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+The second epistemic aim, the aim of avoiding error, “treat[s] the avoidance of error as more imperative [than the chase for truth], and let[s] truth take its chance” (James 18) Here, James is responding to W.K. Clifford’s evidentialism as a rule of morality, which states that “it is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence” (Clifford 186). Clifford frames our epistemological aim here as believing all and only the propositions that are supported by our evidence, and conversely, to withhold belief in a proposition if we lack sufficient evidence for it. An individual undertaking this sort of epistemic aim would ostensibly avoid falsehood more than attaining truth, and consequently, would then try to engage in behavior that would minimize their false beliefs--such as not allowing their passions and prejudices to interfere with the rational assessment of evidence, the questioning of all that they believe in, and if necessary, due to a lack of evidence, choosing to believe in nothing. From James’ perspective, he conceives that such an aim would lead to an epistemic behavior where one would rather “go without belief forever than believe a lie,” resulting in the individual refraining from acquiring new beliefs in order to protect against false beliefs (James 18). If this epistemic behavior were taken to its logical extreme, whereby an individual refrained from forming any new beliefs due to a lack of sufficient evidence, they would also be precluded from forming any new true beliefs. As such, if the original epistemological aim for avoiding error is premised on the task of acquiring knowledge, then the internal logic of such an aim would fail since it cannot produce any new beliefs. In any case, an individual guided by such an epistemic aim will prioritize avoiding error over the loss of certain true beliefs.
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+An alternative epistemological aim that James provides is the aim of believing the truth. James frames our epistemological aim here as striving towards the truth through a structured consideration of how belief can be permissible in the absence of sufficient evidence. James thinks that under the circumstances where an option is live, forced, momentaneous, and isn’t able to be settled by rational means, an individual is justified in following their “passional nature” and holding a belief, regardless of whether or not there is sufficient evidence for such a belief. In contrast to the individual guided by minimizing error, an individual guided by the epistemic aim of believing in the truth would seek the truth by any means necessary--even at the risk of having false beliefs, if they are grounded in the pre existing tendencies to believe in such a belief. Such an epistemic position would view it as imperative to pursue true belief based on the demands of human life, while recognizing how “human passions...are stronger than technical rules” in shaping such beliefs (James 21). 
 
-## Another great heading (h2)
+While the two aims, separated into 1) the aim of believing the truth and 2) the aim of avoiding error, help to clarify the different epistemic aims, the two are not as divided as it seems. On first blush, it may seem like the two epistemic aims pull in opposite directions, as the aim of believing the truth promotes epistemic behavior that seeks truth and avoids error, while the aim of avoiding error seeks to avoid error regardless of the loss of certain true beliefs. However, in matters dealing with objective nature, “the choice between believing truth or falsehood is seldom forced” (James 20).  As such, James urges us to keep weighing reasons with an indifferent hand so that both epistemic aims can be balanced and combined to maximize true beliefs and minimize error. Such a position highlights a ‘both/and’ relation distinct from the traditional ‘separable,’ ‘either/or’ relation.  In matters dealing with moral questions or for situations with forced options, James argues that our truth positions are dependent on our dispositions or ‘preliminary faith’ and as such, cannot be settled by intellectual means in the traditional sense. The two different epistemic aims are united by a shared basis of a wish to believe based on preliminary faith rather than reason.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Another way of understanding the mutual relation between the two distinct aims is through their opposing nature. In a case where an individual acquires true belief A (do good), the acquisition of true belief A necessitates avoiding the error of believing ~A (refrain from doing evil). However, the acquisition of true belief ~A (refrain from doing evil) doesn’t necessarily entail believing in A (do good), and is instead open to a plurality of other positions such as B (neutral),  C, etc. James’ rule of thinking is another helpful device to think about the dependent relation between the two aims. If we take William James’ reason, “a rule of thinking which would absolutely prevent me from acknowledging certain kinds of truth if those kinds of truth were really there, would be an irrational rule” to be true, then the previously explored failed internal logic of an aim avoiding error would block access to certain truths  (James 28). The two ‘separable laws’ are thus intimately connected, necessitating and negating each other in different cases.
 
-### Some great subheading (h3)
+3. If you already believe a certain claim to be true, then why is it not rational to actively avoid the acquisition of any new evidence that might cause you to give up your belief? After all, from your current perspective, such countervailing evidence must appear as misleading insofar as it is evidence in support of what you now believe to be a false claim. 
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
+Adopting Peirce’s position in which I believe free-trade to be true and protectionism as false, there are several reasons for why it is not rational for me to avoid the acquisition of any new evidence that might cause me to give up my belief. The key reason is that the method of tenacity is not a sustainable method for fixing belief in the long-term because I can make the inference that having been exposed to a certain newspaper once prior and assuming that I am a social human being that regularly interacts with the social world at large--whether it be through various information channels like the newspaper or social media, or even interaction with other people who are politically minded, that I will find myself exposed to views contrary to mine consistently. As such, unless I make myself a hermit and close myself from any external influence to my truth claims than I will necessarily be susceptible and influenced by other opinions. Although I naturally find myself in a community as a social animal and may tend towards communities that reinforce my position, similar to the position of authority in which I am only exposed to one view, the like-minded community cannot regulate all my truth claims regarding free-trade or even in general, and fragments of irritating doubt regarding my position will begin to surface, leading to the struggle to attain belief. I can already infer from the given statements, that my position on free-trade is already on shaky grounds since I am easily doubted by my peer group in settling my own opinion. If I take my peer’s advice to heart and decide not to read the paper, then I have displaced the opportunity for me to build my belief foundation through reading the countervailing evidence as misleading and evidence in support of what I believe to be a false claim, and have instead depended on my peer’s claim, one already based on a doubt in my ability to fix belief. As such, the uneasy and dissatisfied state of doubt will overcome me sooner rather than later and I would be able to satiate this doubt sooner by engaging and exposing myself to countervailing evidence in the hopes of creating more solid grounds for my own position. 
 
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+Works Cited
 
-### Some great subheading (h3)
+Clifford, William Kingdon, and Timothy J. Madigan. The Ethics of Belief: And Other Essays. N.p.: Prometheus, 1999. Print.
 
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+James, William. The Will to Believe: And Other Essays in Popular Philosophy. N.p.: Scholar's Choice, 2015. Print.
 
-> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
-
-
-
-## Headings are cool! (h2)
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+Peirce, Charles. Fixation of Belief. N.p.: Dover Publications, 1955. Print.
