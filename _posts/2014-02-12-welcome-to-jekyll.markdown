@@ -36,19 +36,33 @@ Without an abstract, static foundation from which things proceed from, Zhuangzi 
 
 Works Cited
 Burik, Steven. “Comparative Resources: Continental Philosophy and Daoism.” Journal of Daoist Studies, vol. 9, no. 1, 2016, pp. 18–48., doi:10.1353/dao.2016.0001.
+
 Dewey, John. Experience and Nature. Open Court, 1965.
+
 Dewey, John. Human Nature and Conduct: an Introduction to Social Psychology. Emereo Publishing, 2013.
+
 Fu, Charles Wei-Hsun. “Creative Hermeneutics: Taoist Metaphysics And Heidegger.” Journal of Chinese Philosophy, vol. 3, no. 2, 1976, pp. 115–143., doi:10.1111/j.1540-6253.1976.tb00384.x.
+
 Hall, David L., and Roger T. Ames. Thinking from the Han: Self, Truth, and Transcendence in Chinese and Western Culture. State Univ. of New York Press, 1998.
+
 Hansen, Chad. A Daoist Theory of Chinese Thought: a Philosophical Interpretation. Oxford Univ. Press, 2009.
+
 James, William. Essays in Radical Empiricism: a Pluralistic Universe. UMI, 1998.
+
 James, William. Pragmatism: and Four Essays from the Meaning of Truth. New American Library, 1974.
+
 James, William. The Varieties of Religious Experience: a Study in Human Nature, Being the Gifford Lectures on Natural Religion Delivered at Edinburgh in 1901-1902, by William James. The Modern Library (Parkway Printing Co.).
+
 Lao-tzu, et al. Daodejing: "Making This Life Significant: a Philosophical Translation. Ballantine Books, 2004.
+
 Laozi, and Bill Porter. Lao-Tzu's Taoteching: with Selected Commentaries from the Past 2,000 Years. Copper Canyon Press, 2009.
+
 Meacham, Bill. “Contents.” Tao Te Ching Ontology, 2010, www.bmeacham.com/whatswhat/TaoTeChingOntology.html#4.Process Metaphysics|outline.
+
 Stuhr, John J. 100 Years of Pragmatism: William James's Revolutionary Philosophy. Indiana University Press, 2010.
+
 Ziporyn, Brook Anthony, and Zhuangzi -. Zhuangzi: the Essential Writings with Selections from Traditional Commentaries. Hackett Pub. Co., 2009.
+
 Ziporyn, Brook. “ Zhuangzi: The Essential Writings Supplemental Material.” Hackett Publishing , 2014, www.hackettpublishing.com/zhuangzisup.
 
 
