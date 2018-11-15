@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "William James and C.S. Peirce"
+title:  "William James and C.S. Peirce"
+date:   2017-09-03 10:01:48
 categories: Philosophy
-author: "James Chou"
-meta: "Springfield"
 ---
 
 Explain, in your own words, how the choice between these two aims may underwrite different epistemic behavior. Is James correct to think of these two aims as ‘separable laws’ (p. 17)?
